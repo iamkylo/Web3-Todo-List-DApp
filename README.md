@@ -1,6 +1,6 @@
 # 🚀 Web3 Todo List DApp
 
-[![Live Demo](https://web3-todo-list-d-app.vercel.app/)
+Live Demo : https://web3-todo-list-d-app.vercel.app/
 
 
 A decentralized Todo List application built with React, Wagmi, RainbowKit, and Tailwind CSS. This DApp allows users to manage their tasks on the blockchain with Web3 wallet integration.
