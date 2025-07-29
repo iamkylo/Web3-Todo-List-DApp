@@ -1,5 +1,8 @@
 # 🚀 Web3 Todo List DApp
 
+[![Live Demo]()
+
+
 A decentralized Todo List application built with React, Wagmi, RainbowKit, and Tailwind CSS. This DApp allows users to manage their tasks on the blockchain with Web3 wallet integration.
 
 ![Todo List DApp](https://img.shields.io/badge/React-19.1.1-blue)
@@ -177,3 +180,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+

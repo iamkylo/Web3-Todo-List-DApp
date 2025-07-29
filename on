@@ -1,0 +1,2 @@
+[33mdd1e0a9[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m Fix Vercel deployment: resolve TypeScript dependency conflicts and add build configuration
+[33m7703f3e[m  Initial commit: Web3 Todo List DApp with Wagmi, RainbowKit, and Tailwind CSS
